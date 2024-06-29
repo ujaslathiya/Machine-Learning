@@ -42,7 +42,7 @@ This repository covers the following key features and techniques:
 To get started with the projects and examples in this repository, clone the repository and follow the instructions provided in each section.
 
 ```sh
-git clone https://github.com/yourusername/Ensemble.git
+git clone https://github.com/ujaslathiya/Ensemble.git
 cd Ensemble
 ```
 
