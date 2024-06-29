@@ -2,7 +2,7 @@ Here's a sample README file description for your repository:
 
 ---
 
-# Ensemble
+# Machine Learning 
 
 This repository is dedicated to exploring and implementing various machine learning techniques, including ensemble methods, hyperparameter tuning, cross-validation, regularization, principal component analysis (PCA), supervised learning algorithms, and unsupervised learning algorithms.
 
