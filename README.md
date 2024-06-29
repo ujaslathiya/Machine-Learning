@@ -1,6 +1,4 @@
-Here's a sample README file description for your repository:
 
----
 
 # Machine Learning 
 
